@@ -1,25 +1,75 @@
 {
-        "ceps": [
-            {
-                "codigo":"01234567",
-                "cidade":"Florianópolis",
-                "estado":"SC",
-                "bairro":"Rio vermelho",
-                "pais":"Brasil"
-            },
-            {
-                "codigo":"98765432",
-                "cidade":"Porto Alegre",
-                "estado":"RS",
-                "bairro":"Sarandi",
-                "pais":"Brasil"
-            },
-            {
-                "codigo":"01010101",
-                "cidade":"Curitiba",
-                "estado":"PR",
-                "bairro":"Boqueirão",
-                "pais":"Brasil"
-            }
-        ]
+    "carros":[
+        {
+            "placa":"MMM0241",
+            "marca":"Chevrolet",
+            "modelo":"Capitiva",
+            "ano": "2012"
+            
+        },
+        {
+            "placa":"SAS3940",
+            "marca":"Mercedes",
+            "modelo":"Mercedes-Benz Classe A",
+            "ano": "2023"
+            
+        },
+        {
+            "placa":"CUS6924",
+            "marca":"Fiat",
+            "modelo":"Uno",
+            "ano": "2000"
+            
+        },
+        {
+            "placa":"CVD6530",
+            "marca":"Hyundai ",
+            "modelo":"Tucson",
+            "ano": "2020"
+            
+        },
+        {
+            "placa":"ABC0987",
+            "marca":"Mitsubishi",
+            "modelo":"ASX",
+            "ano": "2020"
+            
+        },
+        {
+            "placa":"XYZ2006",
+            "marca":"Land Rover",
+            "modelo":"Range Rover",
+            "ano": "2022"
+            
+        },
+        {
+            "placa":"JSX3330",
+            "marca":"Toyota",
+            "modelo":"Yaris Sedã",
+            "ano": "2021"
+            
+        },
+        {
+            "placa":"CSS1207",
+            "marca":"Ford",
+            "modelo":"Ranger",
+            "ano": "2023"
+            
+        },
+        {
+            "placa":"TSX6843",
+            "marca":"Jeep",
+            "modelo":"4XE",
+            "ano": "2019"
+            
+        },
+        {
+            "placa":"REV7670",
+            "marca":"BMW",
+            "modelo":"Série 4 Cabrio",
+            "ano": "2023"
+            
+        }
+        
+    ]
 }
